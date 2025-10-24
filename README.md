@@ -23,7 +23,6 @@ The core of this project is the `Data_Cleaning_and_Analysis.ipynb` notebook. Thi
 *   Pandas
 *   NumPy
 *   Matplotlib
-*   Seaborn
 
 ## How to Use
 
@@ -39,7 +38,7 @@ The core of this project is the `Data_Cleaning_and_Analysis.ipynb` notebook. Thi
 3.  **Install dependencies:**
     Ensure you have the required Python libraries installed.
     ```sh
-    pip install pandas numpy matplotlib seaborn jupyterlab
+    pip install pandas numpy matplotlib jupyterlab
     ```
 
 4.  **Run the notebook:**
